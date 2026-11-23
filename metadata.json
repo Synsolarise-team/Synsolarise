@@ -1,0 +1,6 @@
+{
+  "name": "Synsolarise",
+  "description": "Complete solar installation solutions, electrical protection switchgear, and commissioning for residential, commercial, and industrial projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
